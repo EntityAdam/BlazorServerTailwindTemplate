@@ -1,5 +1,10 @@
 ﻿# Blazor Server Template
 
+## Add template to Visual Studio 2019
+
+- Download `/TemplateFile/BlazorServerTailwindTemplateV1.zip`
+- Copy to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\`
+
 ## Tailwind with `gulp` references
 
 > https://chrissainty.com/tailwindcss/
